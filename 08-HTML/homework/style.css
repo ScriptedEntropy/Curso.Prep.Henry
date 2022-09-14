@@ -1,0 +1,12 @@
+img {width: 400px;}
+#thirdDiv {height: 800px; width: 500px; background-color: black; padding: 50px; border-width: 4px;border-style: dashed;border-color:mediumorchid ;margin:auto}
+#spanId {font-size: 18px; margin: 50px;}
+body{background-image: url("https://us.123rf.com/450wm/nataliasycheva/nataliasycheva1511/nataliasycheva151100041/49161039-sin-fisuras-patr%C3%B3n-blanco-y-negro-de-pizza-de-pepperoni-con-queso-y-jam%C3%B3n.jpg?ver=6");}
+.divClass{display: -webkit-flex;
+    display: flex;
+    -webkit-align-items: center;
+    align-items: center;
+    -webkit-justify-content: center;
+    justify-content: center;
+background-color: white;
+margin: 0px;}
